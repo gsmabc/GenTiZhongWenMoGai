@@ -28,5 +28,5 @@ v1:
 
 2.材质包文件夹内git clone(需安装git）：  
 
-    git clone https://github.com/gsmabc/GenTiZhongWenMoGai.git（官方源，最新，可能贼慢）
-    git clone https://hub.fastgit.org/gsmabc/GenTiZhongWenMoGai.git（镜像源，不一定最新，可能贼快）
+```git clone https://github.com/gsmabc/GenTiZhongWenMoGai.git ```（官方源，最新，可能贼慢）  
+```git clone https://hub.fastgit.org/gsmabc/GenTiZhongWenMoGai.git ```（镜像源，不一定最新，可能贼快）
